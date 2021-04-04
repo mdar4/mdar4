@@ -2,7 +2,8 @@
 - 👀 I’m interested in programmation.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on CSS, HTML, Python, Java e Javascript.
-- 📫 How to reach me ...
+- 📫 How to reach me:
+Email: darasilva2391@gmail.com
 
 <!---
 mdar4/mdar4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
