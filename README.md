@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mdar4
 - 👀 I’m interested in programmation.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Javascript.
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
