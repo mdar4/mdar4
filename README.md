@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mdar4
 - 👀 I’m interested in programmation.
 - 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on CSS, HTML, Python, Java e Javascript.
 - 📫 How to reach me ...
 
 <!---
