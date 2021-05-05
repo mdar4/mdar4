@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEXaCUgapWQsuPMGt9biETsQJUCC0SXfE03w&usqp=CAU">
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEXaCUgapWQsuPMGt9biETsQJUCC0SXfE03w&usqp=CAU">
 
 ### Oiii! Seja bem vindo(a) ao meu Github 👋
 Sou estudante de Desenvolvimento Front-end autodidata.
