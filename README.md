@@ -1,5 +1,5 @@
 ### Oiii! Seja bem vindo(a) ao meu Github 👋
-Estudante de Desenvolvimento Front-end na Blue EdTech.
+Estudante de Tecnologia da Informação na Blue EdTech.
 - 🌱 Apaixonada por literatura e outras vias de arte.
 - 🤝 Busco aprender e compartilhar meu conhecimento.
 
