@@ -1,9 +1,11 @@
-# Oiii! Seja bem vindo(a) ao meu Github 👋 :octocat:
-- Estudante de Tecnologia da Informação na Blue EdTech 💙.
-- 💻 Futura desenvolvedora Front-end.
-- Moro no 🇧🇷.
-- Interesse em JavaScript, html, css, Python ...
-- 🎨 Apaixonada por literatura e outras vias de arte.
+<h1> Oiii! Seja bem vindo(a) ao meu Github 👋 :octocat:</h1>
+<ul>
+  <li>Estudante de Tecnologia da Informação na Blue EdTech 💙.</li>
+  <li>💻 Futura desenvolvedora Front-end.</li>
+  <li>Moro no 🇧🇷.</li>
+  <li>Interesse em JavaScript, html, css, Python ...</li>
+  <li>🎨 Apaixonada por literatura e outras vias de arte.</li>
+</ul>
 
  <div>
   <a href="https://github.com/mdar4">
