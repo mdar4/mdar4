@@ -1,18 +1,24 @@
 # Oiii! Seja bem vindo(a) ao meu Github 👋 :octocat:
-## Estudante de Tecnologia da Informação na Blue EdTech 💙.
+- Estudante de Tecnologia da Informação na Blue EdTech 💙.
 - 💻 Futura desenvolvedora Front-end.
 - Moro no 🇧🇷.
+- Interesse em JavaScript, html, css, Python ...
 - 🎨 Apaixonada por literatura e outras vias de arte.
 
  <div>
   <a href="https://github.com/mdar4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdar4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdar4&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+ 
+ ### Minhas Skills:
 <div style="display: inline_block"><br>
   <img align="center" alt="Dara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Dara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+ <img align="center" alt="Dara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+ <img align="center" alt="Dara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
   
   ##
