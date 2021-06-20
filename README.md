@@ -21,7 +21,7 @@
  <img align="center" alt="Dara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
  <img align="center" alt="Dara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" alt="Dara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
- <img align="right" height="200" width="300" alt="gif-code" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif">
+ <img align="right" height="200" width="250" alt="gif-code" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif">
 </div>
   
   ##
