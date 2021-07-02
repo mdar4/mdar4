@@ -1,3 +1,5 @@
+![Profile Viewa](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mdar4&repo=mdar4&countColorcountColor)
+
 <h1> Oiii! Seja bem vindo(a) ao meu Github 👋 :octocat:</h1>
 <ul>
   <li>Estudante de Tecnologia da Informação na Blue EdTech 💙.</li>
