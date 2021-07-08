@@ -5,7 +5,7 @@
   <li>Estudante de Tecnologia da Informação na Blue EdTech 💙.</li>
   <li>💻 Futura desenvolvedora Front-end.</li>
   <li>Moro no 🇧🇷.</li>
-  <li>Interesse em JavaScript, html, css, Python ...</li>
+  <li>Interesse em JavaScript, HTML, CSS, Python ...</li>
   <li>🎨 Apaixonada por literatura e outras vias de arte.</li>
 </ul>
 
