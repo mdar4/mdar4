@@ -1,4 +1,7 @@
 ![Profile Viewa](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mdar4&repo=mdar4&countColorcountColor)
+<div style="display: flex">
+<img align="center" height="400vh" width="100%" alt="gif-code" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif">
+</div>
 
 <h1> Oiii! Seja bem vindo(a) ao meu Github 👋 :octocat:</h1>
 <ul>
@@ -23,7 +26,6 @@
  <img align="center" alt="Dara-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
  <img align="center" alt="Dara-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" alt="Dara-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
- <img align="right" height="200" width="250" alt="gif-code" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif">
 </div>
   
   ##
